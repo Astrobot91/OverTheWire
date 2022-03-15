@@ -17,4 +17,5 @@ bandit 15 -> 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 	     BfMYroe26WYalil77FoDi9qh59eK5xNr
 bandit 16 -> cluFn7wTiGryunymYOu4RcffSxQluehd
 bandit 17 -> bandit17 key file
-bandit18 -> IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+bandit 18 -> IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+bandit 19 -> IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
